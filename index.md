@@ -7,7 +7,6 @@
 
 - List created
 - Added another item to the list
-
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ``` javascript
