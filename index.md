@@ -9,3 +9,8 @@
 - Added another item to the list
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+const name = "Usama Mangi";
+const email = "usamapk7861@gmail.com";
+```
