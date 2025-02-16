@@ -14,3 +14,7 @@
 const name = "Usama Mangi";
 const email = "usamapk7861@gmail.com";
 ```
+
+- [x] Intro to GitHub finished
+- [ ] Able to select completed
+- [x] Stuck with completed but incomplete course
